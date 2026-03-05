@@ -36,5 +36,6 @@ function toggleCart() {
 
 // 5. Initialize listeners when DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
-    console.log("Tweety's Shop is ready for flight! 🐥");
+    console.log("Dionne's Shop is ready for flight! 🐥");
+
 });
